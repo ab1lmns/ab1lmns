@@ -18,7 +18,7 @@ Focused on building modern web applications and exploring AI/ML solutions
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Zustand](https://img.shields.io/badge/Zustand-FF6F00?style=for-the-badge&logo=react&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
 
@@ -74,7 +74,7 @@ Focused on building modern web applications and exploring AI/ML solutions
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ab1lmnss)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abilmansursatalganov78@gmail.com)
 
-    </td>
+
   </tr>
 </table>
 
